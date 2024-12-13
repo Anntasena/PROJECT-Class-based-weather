@@ -21,4 +21,4 @@ Aplikasi ini lahir dari rasa ingin tahu saya tentang React di masa lalu, saat pe
 1. Clone repository ini ke mesin lokal Anda:
 
    ```bash
-   git clone https://github.com/username/classy-weather.git
+   git clone https://github.com/Anntasena/PROJECT-Class-based-weather.git
